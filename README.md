@@ -38,7 +38,7 @@ Bu proje aslen **Python (.py)** ile geliştirilmiş olup, son kullanıcıların 
 Bu proje **XS Team** tarafından sevgiyle ve tutkuyla geliştirilmiştir. 
 
 *   **Geliştirici Ekip:** XS Team
-*   **Discord / İletişim:** [Discord](https://discord.gg/xfrYByPXcU)
+*   **İletişim:** [Discord](https://discord.gg/xfrYByPXcU)
 
 ---
 
